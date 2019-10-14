@@ -13,7 +13,7 @@ blurb:
     彼の言葉「Boys, be ambitious !」はあまりにも有名な言葉ですが、
     実は、これには続きがあったといわれています。
 intro:
-  heading: さてさて。なんだかわかりません。
+  heading: いまはこれだけ。（「ルパンⅢ世　カリオストロの城」より）
   text: >-
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
