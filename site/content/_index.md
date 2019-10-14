@@ -1,5 +1,5 @@
 ---
-title: Welcome　Test Page of SAKAMORI PBL
+title: Welcome　Test Page of SAKAMORI PBL　！
 subtitle: We are Professionals about Project Management
 image: /img/dscn5735.jpg
 blurb:
