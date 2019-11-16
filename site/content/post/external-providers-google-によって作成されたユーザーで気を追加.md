@@ -14,3 +14,4 @@ image: ''
 
 * Branch protection rulesだけだとMergeできちゃう
 * 多分コーヒー豆作ってくれている方だと思われ
+* 編集中のものを作ってからDeleteしたほうがいいのかな？
