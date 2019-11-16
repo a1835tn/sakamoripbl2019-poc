@@ -5,10 +5,12 @@ description: |-
   ユーザー名が知りたい:OK
   publishできてしまうことを確認したい:OK
   Don’t build deploy previews for pull requestsでpreviewデプロイしないことを見たい:OK
-  GithubでBranch protection rulesを設定してowner以外がMargeできないようにする:
+  GithubでBranch protection rulesを設定してowner以外がMergeできないようにする:
 image: ''
 ---
-# このおっちゃんは誰
-## たくましいお鬚のおっちゃんです
-- デフォルトでimegeフォルダに入っていただけです
-- 多分コーヒー豆作ってくれている方だと思われ
+# GitHub
+
+## Setting
+
+* Branch protection rulesだけだとMergeできちゃう
+* 多分コーヒー豆作ってくれている方だと思われ
