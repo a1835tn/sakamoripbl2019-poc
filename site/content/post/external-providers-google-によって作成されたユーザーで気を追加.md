@@ -5,6 +5,7 @@ description: |-
   ユーザー名が知りたい:OK
   publishできてしまうことを確認したい:OK
   Don’t build deploy previews for pull requestsでpreviewデプロイしないことを見たい:OK
+  GithubでBranch protection rulesを設定してowner以外がMargeできないようにする:
 image: ''
 ---
 # このおっちゃんは誰
